@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package Arrays;
 public class CountNums {
     public static void main(String[] args) {
         // int num= 1233343873;

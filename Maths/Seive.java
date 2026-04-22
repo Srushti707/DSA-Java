@@ -1,4 +1,4 @@
-package DSA.Maths;
+package Maths;
 
 public class Seive {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.Bit_Manipulation;
+package Bit_Manipulation;
 
 public class LastSetBit {
     public static void main(String[] args) {

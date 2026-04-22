@@ -1,4 +1,4 @@
-package DSA.Hash_Table;
+package Hash_Table;
  import java.util.*;
 public class Hashmap {
     public static void main(String[] args) {

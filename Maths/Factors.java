@@ -1,4 +1,4 @@
-package DSA.Maths;
+package Maths;
 import java.util.*;
 public class Factors {
     public static void main(String[] args) {

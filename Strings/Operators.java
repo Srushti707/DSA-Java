@@ -1,4 +1,4 @@
-package DSA.Strings;
+package Strings;
 
 public class Operators {
     public static void main(String[] args) {

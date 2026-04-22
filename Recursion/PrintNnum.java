@@ -1,4 +1,4 @@
-package DSA.Recursion;
+package Recursion;
 
 public class PrintNnum {
     public static void main(String[] args) {

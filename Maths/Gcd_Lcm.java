@@ -1,4 +1,4 @@
-package DSA.Maths;
+package Maths;
 
 public class Gcd_Lcm {
     public static void main(String[] args) {
