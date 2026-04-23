@@ -2,9 +2,11 @@ package Recursion;
 
 public class ReverseNum {
     public static void main(String[] args) {
-        int n=123;
+        int n=121;
         rev(n);
         System.out.println(sum);
+        if(n==sum) System.out.println("palindrome");
+        else System.out.println("Not palindrome");
     }
     static int sum=0;
     static int rev(int n)
