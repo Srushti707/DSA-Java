@@ -131,7 +131,7 @@ public class BinarySearchQA {
     //     }
     // }
 
-    //852. Peak index in Mountain array
+//852. Peak index in Mountain array
 
 //     int[] arr={0,10,5,2};
 //     System.out.println(peakIndexInMountainArray(arr));
